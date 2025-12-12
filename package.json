@@ -1,0 +1,30 @@
+{
+  "name": "saas-ai-playbook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.2.2",
+    "zustand": "^4.4.0",
+    "@vercel/ai": "^1.0.0",
+    "openai": "^4.0.0",
+    "lucide-react": "^0.278.0",
+    "ai": "^0.6.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.0",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.40.0",
+    "@types/node": "^20.4.2",
+    "@types/react": "^18.2.21"
+  }
+}

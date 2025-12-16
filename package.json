@@ -14,7 +14,7 @@
     "react-dom": "^18.2.0",
     "typescript": "^5.2.2",
     "zustand": "^4.4.0",
-    "@vercel/ai": "^1.0.0",
+    "ai": "^3.0.0",
     "openai": "^4.0.0",
     "lucide-react": "^0.278.0",
     "ai": "^0.6.0"
